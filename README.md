@@ -1,4 +1,6 @@
-# Neur_Net_digits
+# Neural Networks
 Neural Network experimentation
+Code produces a neural network with a chosen number of hidden layers. 
+Learning is implemented using backpropagation.
 
-Based on MNIST data set. Needed to execute code.
+Training data for simple testing can be either generated using the function in "gen_data.jl" file. The aim was to train a network to recognize handwritten digits reliably using the MNIST data set (available at http://yann.lecun.com/exdb/mnist/). 
